@@ -71,7 +71,7 @@ def logo():
   __ __ ___  ___   __  __  ____   __                              
  | |/ / | | |   \  |    | |    | |  \  |%sAuthor by %sMR.L4M3R%s
  | |    | | | )  | | __ | |____| |   \ |%sGithub %sgithub.com/MR-L4M3R%s
- |_|    |_| |___/  |/  \| |    | |    \|%sTeam %sSUMBER CYBEF TEAM%s
+ |_|    |_| |___/  |/  \| |    | |    \|%sTeam %sSUMBER CYBER TEAM%s
  =======================================%sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
